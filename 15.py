@@ -8,6 +8,7 @@ lines.pop()
 ne_vupa = set()
 
 for line in lines: 
+    toks = line.split(' ')
 
 
 
