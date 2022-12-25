@@ -94,3 +94,5 @@ i2 = (2000 % lnn + i0) % lnn
 i3 = (3000 % lnn + i0) % lnn
 
 print(int(lines3[i1].value) + int(lines3[i2].value) + int(lines3[i3].value))
+#14579387544492
+#14579387544492
